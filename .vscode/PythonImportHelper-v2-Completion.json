@@ -1,0 +1,2165 @@
+[
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "jupyter_dash",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jupyter_dash",
+        "description": "jupyter_dash",
+        "detail": "jupyter_dash",
+        "documentation": {}
+    },
+    {
+        "label": "JupyterDash",
+        "importPath": "jupyter_dash",
+        "description": "jupyter_dash",
+        "isExtraImport": true,
+        "detail": "jupyter_dash",
+        "documentation": {}
+    },
+    {
+        "label": "JupyterDash",
+        "importPath": "jupyter_dash",
+        "description": "jupyter_dash",
+        "isExtraImport": true,
+        "detail": "jupyter_dash",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "suptitle",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "autoscale",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "suptitle",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "autoscale",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "suptitle",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "autoscale",
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "isExtraImport": true,
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objs",
+        "description": "plotly.graph_objs",
+        "detail": "plotly.graph_objs",
+        "documentation": {}
+    },
+    {
+        "label": "make_subplots",
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "isExtraImport": true,
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "make_subplots",
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "isExtraImport": true,
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "make_subplots",
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "isExtraImport": true,
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "dash,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dash.",
+        "description": "dash.",
+        "detail": "dash.",
+        "documentation": {}
+    },
+    {
+        "label": "dash",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dash",
+        "description": "dash",
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dash_table",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "callback",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dash_table",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dash_table",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Output",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Output",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Output",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "dash.dependencies",
+        "description": "dash.dependencies",
+        "isExtraImport": true,
+        "detail": "dash.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "unique",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.colors",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.colors",
+        "description": "matplotlib.colors",
+        "detail": "matplotlib.colors",
+        "documentation": {}
+    },
+    {
+        "label": "Class",
+        "importPath": "pyclbr",
+        "description": "pyclbr",
+        "isExtraImport": true,
+        "detail": "pyclbr",
+        "documentation": {}
+    },
+    {
+        "label": "Class",
+        "importPath": "pyclbr",
+        "description": "pyclbr",
+        "isExtraImport": true,
+        "detail": "pyclbr",
+        "documentation": {}
+    },
+    {
+        "label": "Class",
+        "importPath": "pyclbr",
+        "description": "pyclbr",
+        "isExtraImport": true,
+        "detail": "pyclbr",
+        "documentation": {}
+    },
+    {
+        "label": "DataManipulation",
+        "importPath": "Functions_Spotify",
+        "description": "Functions_Spotify",
+        "isExtraImport": true,
+        "detail": "Functions_Spotify",
+        "documentation": {}
+    },
+    {
+        "label": "DataManipulation",
+        "importPath": "Functions_Spotify",
+        "description": "Functions_Spotify",
+        "isExtraImport": true,
+        "detail": "Functions_Spotify",
+        "documentation": {}
+    },
+    {
+        "label": "Fig",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_1",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_2",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_4",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_5",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_6",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_7",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_8",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_9",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_9_Copy",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_10",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_10_Copy",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_11",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_12",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_13",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_14",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_query_genre_top_5",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_guery_genre_top5",
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "isExtraImport": true,
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass\n        tee_f.write(what)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info[0],\n        sys.version_info[1],\n        suffix,",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(\"-> %s\\\\%s[%s]=%r\" % (root_key_name, key_name, value_name, value))\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(\"-> DELETE %s\\\\%s[%s]\" % (root_key_name, key_name, value_name))\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(\"Failed to unregister COM objects: %s\" % (why,))\n    try:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError('Path \"{}\" does not exist!'.format(location))\n    return location\ndef main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True\nexcept NameError:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(\"*** Test script '%s' exited with %s\" % (script, result.returncode))\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "update_table",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def update_table(selected_year):\n    filtered_df = df_top5[df_top5['Year'] == selected_year]\n    return filtered_df.to_dict('records')\n@app.callback(Output(\"Fig_5\", \"figure\"), Input(\"Fig_5_Genre\", \"value\"), Input(\"Fig_5_Years_Cat\", \"value\"))\ndef update_graphs(selected_genre, selected_years):\n    if selected_genre and selected_years:\n        filtered_df = df_tracks_mean.loc[(df_tracks_mean[\"Query_Genre\"] == selected_genre) & (df_tracks_mean[\"Years_Cat\"] == selected_years)]\n    elif selected_genre and not selected_years:\n        filtered_df = df_tracks_mean.loc[df_tracks_mean[\"Query_Genre\"] == selected_genre]\n    elif selected_years:",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "update_graphs",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def update_graphs(selected_genre, selected_years):\n    if selected_genre and selected_years:\n        filtered_df = df_tracks_mean.loc[(df_tracks_mean[\"Query_Genre\"] == selected_genre) & (df_tracks_mean[\"Years_Cat\"] == selected_years)]\n    elif selected_genre and not selected_years:\n        filtered_df = df_tracks_mean.loc[df_tracks_mean[\"Query_Genre\"] == selected_genre]\n    elif selected_years:\n        filtered_df = df_tracks_mean.loc[df_tracks_mean[\"Years_Cat\"] == selected_years]\n    else :\n        filtered_df = df_tracks_mean\n    Fig_5 = px.area(filtered_df, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "reset_years",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def reset_years(n_clicks):\n    if n_clicks > 0:\n        return None\n@app.callback(Output(\"Fig_9\", \"figure\"), Input(\"Fig_9_10_Genre\", \"value\"))\ndef update_graphs(selected_values):\n    if not selected_values:\n        return Fig_9_Copy\n    if not isinstance(selected_values, list):\n        selected_values = [selected_values]\n    if \"Reset The Figures\" in selected_values:",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "update_graphs",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def update_graphs(selected_values):\n    if not selected_values:\n        return Fig_9_Copy\n    if not isinstance(selected_values, list):\n        selected_values = [selected_values]\n    if \"Reset The Figures\" in selected_values:\n        return Fig_9_Copy\n    filtered_df = df_artist_guery_genre_top5[df_artist_guery_genre_top5[\"Query_Genre\"].isin(selected_values)]\n    Fig_9 = px.bar(filtered_df, x = \"Artist_Name\", y = \"Followers\", color = \"Query_Genre\", text = \"Artist_Name\")\n    Fig_9.update_layout(height = 600,",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "update_graphs",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def update_graphs(selected_values):\n    if not selected_values:\n        return Fig_10_Copy\n    if not isinstance(selected_values, list):\n        selected_values = [selected_values]\n    if \"Reset The Figures\" in selected_values:\n        return Fig_10_Copy\n    filtered_df = df_tracks_query_genre_top_5[df_tracks_query_genre_top_5[\"Query_Genre\"].isin(selected_values)]\n    Fig_10 = px.bar(filtered_df, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\", text = \"Artist_Name\")\n    Fig_10.update_layout(height = 600,",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_modal",
+        "kind": 2,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "def toggle_modal(n1, n2, is_open):\n    if n1 or n2:\n        return not is_open\n    return is_open\nif __name__ == '__main__':\n    app.run_server(debug = True, host = \"192.168.1.45\", port = 7021)",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "pd.options.display.float_format",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "pd.options.display.float_format = '{:,.2f}'.format\npd.set_option(\"display.max_rows\", None)\npd.set_option(\"display.max_columns\", None)\npd.set_option(\"display.width\", 1000)\npio.templates.default = \"plotly_dark\"\nfrom Functions_Spotify import DataManipulation\ndf_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\nfrom Graphs import Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14, df_tracks_mean, df_top5, df_tracks_query_genre_top_5, df_artist_guery_genre_top5\nfor fig in [Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14]:",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "pio.templates.default",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "pio.templates.default = \"plotly_dark\"\nfrom Functions_Spotify import DataManipulation\ndf_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\nfrom Graphs import Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14, df_tracks_mean, df_top5, df_tracks_query_genre_top_5, df_artist_guery_genre_top5\nfor fig in [Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14]:\n    fig.update_layout(plot_bgcolor = \"rgb(4,12,38)\", paper_bgcolor = \"rgb(4,12,38)\")\napp = Dash(__name__, external_stylesheets = [dbc.themes.BOOTSTRAP])\napp.index_string = '''\n<!DOCTYPE html>",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "df_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\nfrom Graphs import Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14, df_tracks_mean, df_top5, df_tracks_query_genre_top_5, df_artist_guery_genre_top5\nfor fig in [Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14]:\n    fig.update_layout(plot_bgcolor = \"rgb(4,12,38)\", paper_bgcolor = \"rgb(4,12,38)\")\napp = Dash(__name__, external_stylesheets = [dbc.themes.BOOTSTRAP])\napp.index_string = '''\n<!DOCTYPE html>\n<html>\n    <head>",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "df_tracks = DataManipulation.get_df_tracks()\nfrom Graphs import Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14, df_tracks_mean, df_top5, df_tracks_query_genre_top_5, df_artist_guery_genre_top5\nfor fig in [Fig, Fig_1, Fig_2, Fig_3, Fig_4, Fig_5, Fig_6, Fig_7, Fig_8, Fig_9, Fig_9_Copy, Fig_10, Fig_10_Copy, Fig_11, Fig_12, Fig_13, Fig_14]:\n    fig.update_layout(plot_bgcolor = \"rgb(4,12,38)\", paper_bgcolor = \"rgb(4,12,38)\")\napp = Dash(__name__, external_stylesheets = [dbc.themes.BOOTSTRAP])\napp.index_string = '''\n<!DOCTYPE html>\n<html>\n    <head>\n        {%metas%}",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "app = Dash(__name__, external_stylesheets = [dbc.themes.BOOTSTRAP])\napp.index_string = '''\n<!DOCTYPE html>\n<html>\n    <head>\n        {%metas%}\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>BATU EXAMPLE DASH</title>\n        {%favicon%}\n        {%css%}",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "app.index_string",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "app.index_string = '''\n<!DOCTYPE html>\n<html>\n    <head>\n        {%metas%}\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <title>BATU EXAMPLE DASH</title>\n        {%favicon%}\n        {%css%}\n    </head>",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "info_text",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "info_text = \"You can write the information or announcements you want to give to the users who enter the site here.\"\ncolors = [\"black\", \"blue\", \"green\", \"purple\", \"black\", \"black\"]\ninfo_parts = info_text.split(\"\\n\")\nmodal_body_children = [html.P(part, style={\"color\" : colors[i % len(colors)]}) for i, part in enumerate(info_parts)]\ninfo_modal = dbc.Modal([\n    dbc.ModalHeader(html.H4(\"INFORMATION\", style={'textAlign':'center'})), \n    dbc.ModalBody(modal_body_children), \n    dbc.ModalFooter(dbc.Button(\"Close\", id = \"close-info\", className = \"ml-auto\"))],\n    id = \"info-modal\",\n    is_open = True)",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "colors = [\"black\", \"blue\", \"green\", \"purple\", \"black\", \"black\"]\ninfo_parts = info_text.split(\"\\n\")\nmodal_body_children = [html.P(part, style={\"color\" : colors[i % len(colors)]}) for i, part in enumerate(info_parts)]\ninfo_modal = dbc.Modal([\n    dbc.ModalHeader(html.H4(\"INFORMATION\", style={'textAlign':'center'})), \n    dbc.ModalBody(modal_body_children), \n    dbc.ModalFooter(dbc.Button(\"Close\", id = \"close-info\", className = \"ml-auto\"))],\n    id = \"info-modal\",\n    is_open = True)\ninfo_button = dbc.Button(\"Show info\", id = \"show-info\")",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "info_parts",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "info_parts = info_text.split(\"\\n\")\nmodal_body_children = [html.P(part, style={\"color\" : colors[i % len(colors)]}) for i, part in enumerate(info_parts)]\ninfo_modal = dbc.Modal([\n    dbc.ModalHeader(html.H4(\"INFORMATION\", style={'textAlign':'center'})), \n    dbc.ModalBody(modal_body_children), \n    dbc.ModalFooter(dbc.Button(\"Close\", id = \"close-info\", className = \"ml-auto\"))],\n    id = \"info-modal\",\n    is_open = True)\ninfo_button = dbc.Button(\"Show info\", id = \"show-info\")\nheader = html.Div([html.H1(\"Your App Title\"), info_button])",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "modal_body_children",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "modal_body_children = [html.P(part, style={\"color\" : colors[i % len(colors)]}) for i, part in enumerate(info_parts)]\ninfo_modal = dbc.Modal([\n    dbc.ModalHeader(html.H4(\"INFORMATION\", style={'textAlign':'center'})), \n    dbc.ModalBody(modal_body_children), \n    dbc.ModalFooter(dbc.Button(\"Close\", id = \"close-info\", className = \"ml-auto\"))],\n    id = \"info-modal\",\n    is_open = True)\ninfo_button = dbc.Button(\"Show info\", id = \"show-info\")\nheader = html.Div([html.H1(\"Your App Title\"), info_button])\napp.layout = dbc.Container(fluid = True, children = [",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "info_modal",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "info_modal = dbc.Modal([\n    dbc.ModalHeader(html.H4(\"INFORMATION\", style={'textAlign':'center'})), \n    dbc.ModalBody(modal_body_children), \n    dbc.ModalFooter(dbc.Button(\"Close\", id = \"close-info\", className = \"ml-auto\"))],\n    id = \"info-modal\",\n    is_open = True)\ninfo_button = dbc.Button(\"Show info\", id = \"show-info\")\nheader = html.Div([html.H1(\"Your App Title\"), info_button])\napp.layout = dbc.Container(fluid = True, children = [\n    html.Img(src = \"/assets/data.jpeg\", style = {\"width\" : \"100%\", \"height\" : \"350px\", \"border\" : \"3px solid white\", \"border-radius\" : \"10px\", ",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "info_button",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "info_button = dbc.Button(\"Show info\", id = \"show-info\")\nheader = html.Div([html.H1(\"Your App Title\"), info_button])\napp.layout = dbc.Container(fluid = True, children = [\n    html.Img(src = \"/assets/data.jpeg\", style = {\"width\" : \"100%\", \"height\" : \"350px\", \"border\" : \"3px solid white\", \"border-radius\" : \"10px\", \n                                       \"background-color\" : \"rgb(4,12,38)\", \"display\": \"block\", \"margin-bottom\" : \"5px\"}),\n    info_modal,\n    html.Div(children = [html.Div(children=[html.H4(children = [html.A(\"PLEASE CLICK ON THE LINK TO VISIT MY LINKEDIN PROFILE\", href = \"https://www.linkedin.com/in/batuhanmtn/\",  target = \"_blank\", \n                                                    style = {\"color\" : \"white\", \"textAlign\" : \"left\", \"width\" : \"40%\"})])],\n                 style={\"width\" : \"50%\", \"color\" : \"white\", \"textAlign\" : \"left\", \"font-size\" : \"5px\", \"display\" : \"flex\",\n                        \"align-items\" : \"center\", \"margin-bottom\" : \"5px\", \"margin-top\" : \"5px\", \"line-height\" : \"30px\", \"justify-content\" : \"flex-start\"}),",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "header",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "header = html.Div([html.H1(\"Your App Title\"), info_button])\napp.layout = dbc.Container(fluid = True, children = [\n    html.Img(src = \"/assets/data.jpeg\", style = {\"width\" : \"100%\", \"height\" : \"350px\", \"border\" : \"3px solid white\", \"border-radius\" : \"10px\", \n                                       \"background-color\" : \"rgb(4,12,38)\", \"display\": \"block\", \"margin-bottom\" : \"5px\"}),\n    info_modal,\n    html.Div(children = [html.Div(children=[html.H4(children = [html.A(\"PLEASE CLICK ON THE LINK TO VISIT MY LINKEDIN PROFILE\", href = \"https://www.linkedin.com/in/batuhanmtn/\",  target = \"_blank\", \n                                                    style = {\"color\" : \"white\", \"textAlign\" : \"left\", \"width\" : \"40%\"})])],\n                 style={\"width\" : \"50%\", \"color\" : \"white\", \"textAlign\" : \"left\", \"font-size\" : \"5px\", \"display\" : \"flex\",\n                        \"align-items\" : \"center\", \"margin-bottom\" : \"5px\", \"margin-top\" : \"5px\", \"line-height\" : \"30px\", \"justify-content\" : \"flex-start\"}),\n    html.Div(children = [info_button], style = {\"width\" : \"20%\", \"display\" : \"flex\", \"justify-content\" : \"center\", \"align-items\" : \"center\"}),",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "app.layout",
+        "kind": 5,
+        "importPath": "Dash",
+        "description": "Dash",
+        "peekOfCode": "app.layout = dbc.Container(fluid = True, children = [\n    html.Img(src = \"/assets/data.jpeg\", style = {\"width\" : \"100%\", \"height\" : \"350px\", \"border\" : \"3px solid white\", \"border-radius\" : \"10px\", \n                                       \"background-color\" : \"rgb(4,12,38)\", \"display\": \"block\", \"margin-bottom\" : \"5px\"}),\n    info_modal,\n    html.Div(children = [html.Div(children=[html.H4(children = [html.A(\"PLEASE CLICK ON THE LINK TO VISIT MY LINKEDIN PROFILE\", href = \"https://www.linkedin.com/in/batuhanmtn/\",  target = \"_blank\", \n                                                    style = {\"color\" : \"white\", \"textAlign\" : \"left\", \"width\" : \"40%\"})])],\n                 style={\"width\" : \"50%\", \"color\" : \"white\", \"textAlign\" : \"left\", \"font-size\" : \"5px\", \"display\" : \"flex\",\n                        \"align-items\" : \"center\", \"margin-bottom\" : \"5px\", \"margin-top\" : \"5px\", \"line-height\" : \"30px\", \"justify-content\" : \"flex-start\"}),\n    html.Div(children = [info_button], style = {\"width\" : \"20%\", \"display\" : \"flex\", \"justify-content\" : \"center\", \"align-items\" : \"center\"}),\n    html.Div(children = [html.H4(children=[html.A(\"PLEASE CLICK TO VIEW THE SOURCE CODE OF THIS DASH\", href = \"https://github.com/Batuhan1652\", target = \"_blank\", style = {\"color\" : \"white\", \"textAlign\" : \"right\", \"width\" : \"30%\"})])],",
+        "detail": "Dash",
+        "documentation": {}
+    },
+    {
+        "label": "DataManipulation",
+        "kind": 6,
+        "importPath": "Functions_Spotify",
+        "description": "Functions_Spotify",
+        "peekOfCode": "class DataManipulation:\n    @staticmethod\n    def Fix_Year_Only_Dates(date):\n          if '-' not in date:\n              return date + '-06-15'\n          else:\n             return date\n    @staticmethod  \n    def Ms_To_Min_Sec(ms):\n         total_seconds = int(ms / 1000)",
+        "detail": "Functions_Spotify",
+        "documentation": {}
+    },
+    {
+        "label": "pd.options.display.float_format",
+        "kind": 5,
+        "importPath": "Functions_Spotify",
+        "description": "Functions_Spotify",
+        "peekOfCode": "pd.options.display.float_format = '{:,.2f}'.format\npd.set_option(\"display.max_rows\", None)\npd.set_option(\"display.max_columns\", None)\npd.set_option(\"display.width\", 1000)\npio.templates.default = \"plotly_dark\"\nclass DataManipulation:\n    @staticmethod\n    def Fix_Year_Only_Dates(date):\n          if '-' not in date:\n              return date + '-06-15'",
+        "detail": "Functions_Spotify",
+        "documentation": {}
+    },
+    {
+        "label": "pio.templates.default",
+        "kind": 5,
+        "importPath": "Functions_Spotify",
+        "description": "Functions_Spotify",
+        "peekOfCode": "pio.templates.default = \"plotly_dark\"\nclass DataManipulation:\n    @staticmethod\n    def Fix_Year_Only_Dates(date):\n          if '-' not in date:\n              return date + '-06-15'\n          else:\n             return date\n    @staticmethod  \n    def Ms_To_Min_Sec(ms):",
+        "detail": "Functions_Spotify",
+        "documentation": {}
+    },
+    {
+        "label": "pd.options.display.float_format",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "pd.options.display.float_format = '{:,.2f}'.format\npd.set_option(\"display.max_rows\", None)\npd.set_option(\"display.max_columns\", None)\npd.set_option(\"display.width\", 1000)\npio.templates.default = \"plotly_dark\"\nfrom Functions_Spotify import DataManipulation\ndf_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\n#####################################################################################################################################################################################################################\nindicator1 = go.Indicator(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "pio.templates.default",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "pio.templates.default = \"plotly_dark\"\nfrom Functions_Spotify import DataManipulation\ndf_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\n#####################################################################################################################################################################################################################\nindicator1 = go.Indicator(\n    mode = \"gauge+number\",\n    value = sum(df_artist[\"Followers\"]),\n    domain = {\"x\" : [0, 0.5], \"y\" : [0, 1]},\n    title = {\"text\" : f\"Total Followers Top 100 Artist\", \"font\" : {\"size\" : 14}}, ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist = DataManipulation.get_df_artist()\ndf_tracks = DataManipulation.get_df_tracks()\n#####################################################################################################################################################################################################################\nindicator1 = go.Indicator(\n    mode = \"gauge+number\",\n    value = sum(df_artist[\"Followers\"]),\n    domain = {\"x\" : [0, 0.5], \"y\" : [0, 1]},\n    title = {\"text\" : f\"Total Followers Top 100 Artist\", \"font\" : {\"size\" : 14}}, \n    gauge = {'bar' : {'color' : \"white\"}})\nindicator2 = go.Indicator(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks = DataManipulation.get_df_tracks()\n#####################################################################################################################################################################################################################\nindicator1 = go.Indicator(\n    mode = \"gauge+number\",\n    value = sum(df_artist[\"Followers\"]),\n    domain = {\"x\" : [0, 0.5], \"y\" : [0, 1]},\n    title = {\"text\" : f\"Total Followers Top 100 Artist\", \"font\" : {\"size\" : 14}}, \n    gauge = {'bar' : {'color' : \"white\"}})\nindicator2 = go.Indicator(\n    mode = \"gauge+number\",",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "indicator1",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "indicator1 = go.Indicator(\n    mode = \"gauge+number\",\n    value = sum(df_artist[\"Followers\"]),\n    domain = {\"x\" : [0, 0.5], \"y\" : [0, 1]},\n    title = {\"text\" : f\"Total Followers Top 100 Artist\", \"font\" : {\"size\" : 14}}, \n    gauge = {'bar' : {'color' : \"white\"}})\nindicator2 = go.Indicator(\n    mode = \"gauge+number\",\n    value = (df_artist[\"Artist_Name\"].nunique()),\n    domain = {\"x\" : [0.5, 1], \"y\" : [0, 1]},",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "indicator2",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "indicator2 = go.Indicator(\n    mode = \"gauge+number\",\n    value = (df_artist[\"Artist_Name\"].nunique()),\n    domain = {\"x\" : [0.5, 1], \"y\" : [0, 1]},\n    title = {\"text\" : f\"Count of Artist\", \"font\" : {\"size\" : 14}},\n    gauge = {'bar' : {'color' : \"white\"}})\nindicator3 = go.Indicator(\n    mode = \"gauge+number\",\n    value = (df_tracks[\"Album_Name\"].nunique()),\n    domain = {\"x\" : [0.5, 1], \"y\" : [0, 1]},",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "indicator3",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "indicator3 = go.Indicator(\n    mode = \"gauge+number\",\n    value = (df_tracks[\"Album_Name\"].nunique()),\n    domain = {\"x\" : [0.5, 1], \"y\" : [0, 1]},\n    title = {\"text\" : \"Count of Album\", \"font\" : {\"size\" : 14}},\n    gauge = {'bar' : {'color' : \"white\"}})\nFig = make_subplots(rows = 1, cols = 3, specs = [[{\"type\" : \"indicator\"}, {\"type\" : \"indicator\"}, {\"type\" : \"indicator\"}]], horizontal_spacing = 0.08)\nFig.add_trace(indicator1, row = 1, col = 3)\nFig.add_trace(indicator2, row = 1, col = 2)\nFig.add_trace(indicator3, row = 1, col = 1)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig = make_subplots(rows = 1, cols = 3, specs = [[{\"type\" : \"indicator\"}, {\"type\" : \"indicator\"}, {\"type\" : \"indicator\"}]], horizontal_spacing = 0.08)\nFig.add_trace(indicator1, row = 1, col = 3)\nFig.add_trace(indicator2, row = 1, col = 2)\nFig.add_trace(indicator3, row = 1, col = 1)\nFig.update_layout(height = 300,\n    xaxis_title_font = {'size' : 18, 'color' : 'white'},\n    yaxis_title_font = {'size' : 18, 'color' : 'white'},\n    title = {'text' : \"General Information\", 'x': 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font': { 'size' : 18, 'color' : 'white'}},\n    plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig.update_layout(height = 300,\n    xaxis_title_font = {'size' : 18, 'color' : 'white'},\n    yaxis_title_font = {'size' : 18, 'color' : 'white'},\n    title = {'text' : \"General Information\", 'x': 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font': { 'size' : 18, 'color' : 'white'}},\n    plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\n#####################################################################################################################################################################################################################\ndf_top5 = df_tracks.groupby('Year').apply(lambda x : x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_top5 = df_tracks.groupby('Year').apply(lambda x : x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_top5 = df_top5.sort_values(by = [\"Year\", \"Popularity\"], ascending = [True, False])\ndf_top5['Rank'] = df_top5.groupby('Year').cumcount() + 1",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_top5 = df_tracks.groupby('Year').apply(lambda x : x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_top5 = df_tracks.groupby('Year').apply(lambda x : x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_top5 = df_top5.sort_values(by = [\"Year\", \"Popularity\"], ascending = [True, False])\ndf_top5['Rank'] = df_top5.groupby('Year').cumcount() + 1\ndf_top5 = df_top5[[\"Rank\", \"Song_Name\", \"Album_Name\", \"Query_Genre\", \"Popularity\", \"Release_Date\", \"Year\", \"Album_Link\"]]\n#####################################################################################################################################################################################################################\ndf_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_top5 = df_tracks.groupby('Year').apply(lambda x : x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_top5 = df_top5.sort_values(by = [\"Year\", \"Popularity\"], ascending = [True, False])\ndf_top5['Rank'] = df_top5.groupby('Year').cumcount() + 1\ndf_top5 = df_top5[[\"Rank\", \"Song_Name\", \"Album_Name\", \"Query_Genre\", \"Popularity\", \"Release_Date\", \"Year\", \"Album_Link\"]]\n#####################################################################################################################################################################################################################\ndf_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_top5 = df_top5.sort_values(by = [\"Year\", \"Popularity\"], ascending = [True, False])\ndf_top5['Rank'] = df_top5.groupby('Year').cumcount() + 1\ndf_top5 = df_top5[[\"Rank\", \"Song_Name\", \"Album_Name\", \"Query_Genre\", \"Popularity\", \"Release_Date\", \"Year\", \"Album_Link\"]]\n#####################################################################################################################################################################################################################\ndf_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5['Rank']",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_top5['Rank'] = df_top5.groupby('Year').cumcount() + 1\ndf_top5 = df_top5[[\"Rank\", \"Song_Name\", \"Album_Name\", \"Query_Genre\", \"Popularity\", \"Release_Date\", \"Year\", \"Album_Link\"]]\n#####################################################################################################################################################################################################################\ndf_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_top5 = df_top5[[\"Rank\", \"Song_Name\", \"Album_Name\", \"Query_Genre\", \"Popularity\", \"Release_Date\", \"Year\", \"Album_Link\"]]\n#####################################################################################################################################################################################################################\ndf_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_grouped",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_grouped = df_tracks.groupby([\"Artist_Name\"]) \\\n.agg({\"Year\" : \"count\"}) \\\n.reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": ".reset_index().sort_values(by",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": ".reset_index().sort_values(by = \"Year\", ascending = False).rename(columns = {\"Year\" : \"Sum of Track\", \"Artist_Name\" : \"Artist Name\"}).reset_index(drop = True)\ndf_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",\n    yaxis_title = \"Sum of Track\",\n    xaxis_title_font = {'size': 18, 'color': 'white'},",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_grouped",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_grouped = df_artist_grouped.head(20)\ndf_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",\n    yaxis_title = \"Sum of Track\",\n    xaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_title_font = {'size': 18, 'color': 'white'},",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_grouped[\"Artist_Name_Short\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_grouped[\"Artist_Name_Short\"] = df_artist_grouped[\"Artist Name\"].apply(lambda x : x[:5] if isinstance(x, str) else x)\ncolor = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",\n    yaxis_title = \"Sum of Track\",\n    xaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_gridcolor = 'white',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "color = [\"white\"]\nFig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",\n    yaxis_title = \"Sum of Track\",\n    xaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_gridcolor = 'white',\n    xaxis_gridcolor = 'white',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_1",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_1 = px.bar(df_artist_grouped, x = \"Artist_Name_Short\", y = \"Sum of Track\", text = \"Sum of Track\", color_discrete_sequence = color, \n              hover_data = {\"Artist_Name_Short\" : False, \"Artist Name\" : True})\nFig_1.update_layout(\n    xaxis_title = \"Artist Name\",\n    yaxis_title = \"Sum of Track\",\n    xaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_title_font = {'size': 18, 'color': 'white'},\n    yaxis_gridcolor = 'white',\n    xaxis_gridcolor = 'white',\n    title = {'text': \"Top 20 Artists by Number of Hits in the Top 100\", 'x': 0.5, 'xanchor': 'center', 'y': 0.95, 'yanchor': 'top', 'font': { 'size': 18, 'color': 'white'}},",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_followers_grouped",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_followers_grouped = df_artist.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index()\nFig_2 = px.treemap(df_artist_followers_grouped, path = [\"Query_Genre\", \"Artist_Name\"],\n                  values = \"Followers\", color = \"Query_Genre\", height = 600, color_continuous_scale = 'Blues')\nFig_2.update_layout (title = {'text' : \"Analysis of Followers Based on Music Genres and Artist Name\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}},\n                        plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_2.update_traces(hoverlabel = dict(bgcolor = \"white\", font = dict(family = \"Arial\", color = \"black\", size = 20)), marker = {'line' : {'color' : 'black', 'width': 2}},\n                       hovertemplate = '<b>Query_Genre : </b> %{parent}<br> \\\n                       <b>Top_Track_Album : </b> %{label}<br> \\\n                       <b>Followers : </b> %{value:,}<extra></extra>')",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_2",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_2 = px.treemap(df_artist_followers_grouped, path = [\"Query_Genre\", \"Artist_Name\"],\n                  values = \"Followers\", color = \"Query_Genre\", height = 600, color_continuous_scale = 'Blues')\nFig_2.update_layout (title = {'text' : \"Analysis of Followers Based on Music Genres and Artist Name\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}},\n                        plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_2.update_traces(hoverlabel = dict(bgcolor = \"white\", font = dict(family = \"Arial\", color = \"black\", size = 20)), marker = {'line' : {'color' : 'black', 'width': 2}},\n                       hovertemplate = '<b>Query_Genre : </b> %{parent}<br> \\\n                       <b>Top_Track_Album : </b> %{label}<br> \\\n                       <b>Followers : </b> %{value:,}<extra></extra>')\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_2.update_traces(hoverlabel",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_2.update_traces(hoverlabel = dict(bgcolor = \"white\", font = dict(family = \"Arial\", color = \"black\", size = 20)), marker = {'line' : {'color' : 'black', 'width': 2}},\n                       hovertemplate = '<b>Query_Genre : </b> %{parent}<br> \\\n                       <b>Top_Track_Album : </b> %{label}<br> \\\n                       <b>Followers : </b> %{value:,}<extra></extra>')\n#####################################################################################################################################################################################################################\ndf_tracks_year = df_tracks.groupby([\"Album_Name\", \"Year\"]).agg({\"Album_Link\" : \"count\"}).reset_index().sort_values(by = \"Album_Link\", ascending = False)\ndf_tracks_year = df_tracks_year.groupby([\"Year\"]).agg({\"Album_Link\" : \"sum\"}).reset_index().rename(columns = {\"Album_Link\" : \"Count of Album\"})\nFig_3 = px.area(df_tracks_year, x = \"Year\", y = \"Count of Album\", color_discrete_sequence = ['white'])\nFig_3.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_year",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_year = df_tracks.groupby([\"Album_Name\", \"Year\"]).agg({\"Album_Link\" : \"count\"}).reset_index().sort_values(by = \"Album_Link\", ascending = False)\ndf_tracks_year = df_tracks_year.groupby([\"Year\"]).agg({\"Album_Link\" : \"sum\"}).reset_index().rename(columns = {\"Album_Link\" : \"Count of Album\"})\nFig_3 = px.area(df_tracks_year, x = \"Year\", y = \"Count of Album\", color_discrete_sequence = ['white'])\nFig_3.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")\nFig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_year",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_year = df_tracks_year.groupby([\"Year\"]).agg({\"Album_Link\" : \"sum\"}).reset_index().rename(columns = {\"Album_Link\" : \"Count of Album\"})\nFig_3 = px.area(df_tracks_year, x = \"Year\", y = \"Count of Album\", color_discrete_sequence = ['white'])\nFig_3.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")\nFig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_3 = px.area(df_tracks_year, x = \"Year\", y = \"Count of Album\", color_discrete_sequence = ['white'])\nFig_3.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")\nFig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3.update_layout(plot_bgcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_3.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\nFig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")\nFig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3.update_yaxes(range",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_3.update_yaxes(range = [0, 1600], gridcolor = \"white\")\nFig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_heat_map = df_tracks.groupby([\"Months_Cat\", \"Year\"]).agg({\"Day\" : \"count\"}).reset_index().sort_values(by = \"Year\").rename(columns = {\"Months_Cat\" : \"Months\", \"Day\" : \"Tracks\"})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3.update_xaxes(gridcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_3.update_xaxes(gridcolor = \"white\")\nscatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_heat_map = df_tracks.groupby([\"Months_Cat\", \"Year\"]).agg({\"Day\" : \"count\"}).reset_index().sort_values(by = \"Year\").rename(columns = {\"Months_Cat\" : \"Months\", \"Day\" : \"Tracks\"})\nFig_4 = px.density_heatmap(df_tracks_heat_map, x = \"Year\", y = \"Months\", z = \"Tracks\", color_continuous_scale = \"Blues\", text_auto = True)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "scatter",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "scatter = go.Scatter(x = df_tracks_year[\"Year\"], y = df_tracks_year[\"Count of Album\"], mode = 'markers', marker_color = 'black')\nFig_3.add_trace(scatter)\nFig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_heat_map = df_tracks.groupby([\"Months_Cat\", \"Year\"]).agg({\"Day\" : \"count\"}).reset_index().sort_values(by = \"Year\").rename(columns = {\"Months_Cat\" : \"Months\", \"Day\" : \"Tracks\"})\nFig_4 = px.density_heatmap(df_tracks_heat_map, x = \"Year\", y = \"Months\", z = \"Tracks\", color_continuous_scale = \"Blues\", text_auto = True)\nFig_4.update_xaxes(tickmode = 'array', tickvals = list(range(min(df_tracks_heat_map[\"Year\"]), max(df_tracks_heat_map[\"Year\"]) + 1, 10)), gridcolor = 'LightGray', gridwidth = 1)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_3.update_layout(hovermode",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_3.update_layout(hovermode = \"x unified\", \n                    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"), height = 600,\n                    title = {'text' : \"Albums Count by Published Year\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_heat_map = df_tracks.groupby([\"Months_Cat\", \"Year\"]).agg({\"Day\" : \"count\"}).reset_index().sort_values(by = \"Year\").rename(columns = {\"Months_Cat\" : \"Months\", \"Day\" : \"Tracks\"})\nFig_4 = px.density_heatmap(df_tracks_heat_map, x = \"Year\", y = \"Months\", z = \"Tracks\", color_continuous_scale = \"Blues\", text_auto = True)\nFig_4.update_xaxes(tickmode = 'array', tickvals = list(range(min(df_tracks_heat_map[\"Year\"]), max(df_tracks_heat_map[\"Year\"]) + 1, 10)), gridcolor = 'LightGray', gridwidth = 1)\nFig_4.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600,\n                     title = {'text' : \"Tracks Count by Year and Month According to Release Date\", ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_heat_map",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_heat_map = df_tracks.groupby([\"Months_Cat\", \"Year\"]).agg({\"Day\" : \"count\"}).reset_index().sort_values(by = \"Year\").rename(columns = {\"Months_Cat\" : \"Months\", \"Day\" : \"Tracks\"})\nFig_4 = px.density_heatmap(df_tracks_heat_map, x = \"Year\", y = \"Months\", z = \"Tracks\", color_continuous_scale = \"Blues\", text_auto = True)\nFig_4.update_xaxes(tickmode = 'array', tickvals = list(range(min(df_tracks_heat_map[\"Year\"]), max(df_tracks_heat_map[\"Year\"]) + 1, 10)), gridcolor = 'LightGray', gridwidth = 1)\nFig_4.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600,\n                     title = {'text' : \"Tracks Count by Year and Month According to Release Date\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_mean = df_tracks.groupby([\"Year\", \"Season\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().sort_values(by = [\"Year\", \"Popularity\"])\nbins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_4",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_4 = px.density_heatmap(df_tracks_heat_map, x = \"Year\", y = \"Months\", z = \"Tracks\", color_continuous_scale = \"Blues\", text_auto = True)\nFig_4.update_xaxes(tickmode = 'array', tickvals = list(range(min(df_tracks_heat_map[\"Year\"]), max(df_tracks_heat_map[\"Year\"]) + 1, 10)), gridcolor = 'LightGray', gridwidth = 1)\nFig_4.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600,\n                     title = {'text' : \"Tracks Count by Year and Month According to Release Date\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_mean = df_tracks.groupby([\"Year\", \"Season\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().sort_values(by = [\"Year\", \"Popularity\"])\nbins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_4.update_xaxes(tickmode",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_4.update_xaxes(tickmode = 'array', tickvals = list(range(min(df_tracks_heat_map[\"Year\"]), max(df_tracks_heat_map[\"Year\"]) + 1, 10)), gridcolor = 'LightGray', gridwidth = 1)\nFig_4.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600,\n                     title = {'text' : \"Tracks Count by Year and Month According to Release Date\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_mean = df_tracks.groupby([\"Year\", \"Season\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().sort_values(by = [\"Year\", \"Popularity\"])\nbins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_4.update_layout(plot_bgcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_4.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600,\n                     title = {'text' : \"Tracks Count by Year and Month According to Release Date\", \n                                 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_mean = df_tracks.groupby([\"Year\", \"Season\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().sort_values(by = [\"Year\", \"Popularity\"])\nbins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_mean = df_tracks.groupby([\"Year\", \"Season\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().sort_values(by = [\"Year\", \"Popularity\"])\nbins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)\ndf_tracks_mean2[\"Average_Popularity of Years Category\"] = df_tracks_mean2[\"Popularity\"]\ndf_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "bins",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "bins = [1900, 1990, 2000, 2010, 2023]\nlabels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)\ndf_tracks_mean2[\"Average_Popularity of Years Category\"] = df_tracks_mean2[\"Popularity\"]\ndf_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "labels = [\"1970 - 1990\", \"1990 - 2000\", \"2000 - 2010\", \"2010 - 2023\"]\ndf_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)\ndf_tracks_mean2[\"Average_Popularity of Years Category\"] = df_tracks_mean2[\"Popularity\"]\ndf_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean[\"Years_Cat\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_mean[\"Years_Cat\"] = pd.cut(df_tracks_mean[\"Year\"], labels = labels, bins = bins)\ndf_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)\ndf_tracks_mean2[\"Average_Popularity of Years Category\"] = df_tracks_mean2[\"Popularity\"]\ndf_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean2",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_mean2 = df_tracks_mean.groupby([\"Years_Cat\", \"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_mean2[\"Popularity\"].fillna(0, inplace = True)\ndf_tracks_mean2[\"Average_Popularity of Years Category\"] = df_tracks_mean2[\"Popularity\"]\ndf_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean2",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_mean2 = df_tracks_mean2[[\"Average_Popularity of Years Category\", \"Years_Cat\", \"Query_Genre\"]]\ndf_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Average popularity of the top 100 songs according to their release dates\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}}) \nFig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_mean",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_mean = pd.merge(df_tracks_mean, df_tracks_mean2, how = \"left\", on = [\"Years_Cat\", \"Query_Genre\"])\nFig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Average popularity of the top 100 songs according to their release dates\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}}) \nFig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])\nFig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_5 = px.area(df_tracks_mean, x = \"Year\", y = \"Popularity\", color_discrete_sequence = ['white'])\nscatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Average popularity of the top 100 songs according to their release dates\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}}) \nFig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])\nFig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "scatter",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "scatter = go.Scatter(x = df_tracks_mean[\"Year\"], y = df_tracks_mean[\"Popularity\"], mode = 'markers', marker_color = 'black')\nFig_5.add_trace(scatter)\nFig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Average popularity of the top 100 songs according to their release dates\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}}) \nFig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])\nFig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])\n#####################################################################################################################################################################################################################\ndf_artist_top_10 = df_artist.groupby([\"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index().sort_values(by = \"Followers\", ascending = False).rename(columns = {\"Artist_Name\" : \"Artist Name\"})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_5.update_layout(plot_bgcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_5.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"x unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Average popularity of the top 100 songs according to their release dates\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}}) \nFig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])\nFig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])\n#####################################################################################################################################################################################################################\ndf_artist_top_10 = df_artist.groupby([\"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index().sort_values(by = \"Followers\", ascending = False).rename(columns = {\"Artist_Name\" : \"Artist Name\"})\ndf_artist_top_10 = df_artist_top_10.head(10)\nFig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_5.update_yaxes(gridcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_5.update_yaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Popularity\"].min(), df_tracks_mean[\"Popularity\"].max() + 10])\nFig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])\n#####################################################################################################################################################################################################################\ndf_artist_top_10 = df_artist.groupby([\"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index().sort_values(by = \"Followers\", ascending = False).rename(columns = {\"Artist_Name\" : \"Artist Name\"})\ndf_artist_top_10 = df_artist_top_10.head(10)\nFig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])\nFig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_5.update_xaxes(gridcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_5.update_xaxes(gridcolor = \"white\", autorange = False, range = [df_tracks_mean[\"Year\"].min(), df_tracks_mean[\"Year\"].max()])\n#####################################################################################################################################################################################################################\ndf_artist_top_10 = df_artist.groupby([\"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index().sort_values(by = \"Followers\", ascending = False).rename(columns = {\"Artist_Name\" : \"Artist Name\"})\ndf_artist_top_10 = df_artist_top_10.head(10)\nFig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])\nFig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_6.update_yaxes(gridcolor = \"white\")",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_top_10",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_top_10 = df_artist.groupby([\"Artist_Name\"]).agg({\"Followers\" : \"sum\"}).reset_index().sort_values(by = \"Followers\", ascending = False).rename(columns = {\"Artist_Name\" : \"Artist Name\"})\ndf_artist_top_10 = df_artist_top_10.head(10)\nFig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])\nFig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_6.update_yaxes(gridcolor = \"white\")\n#####################################################################################################################################################################################################################\ndf_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_top_10",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_top_10 = df_artist_top_10.head(10)\nFig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])\nFig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_6.update_yaxes(gridcolor = \"white\")\n#####################################################################################################################################################################################################################\ndf_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})\ncolors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_6",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_6 = px.funnel(df_artist_top_10, x = \"Followers\", y = \"Artist Name\", color_discrete_sequence = ['white'])\nFig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_6.update_yaxes(gridcolor = \"white\")\n#####################################################################################################################################################################################################################\ndf_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})\ncolors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))\ncolors_hex = [mcolors.to_hex(c) for c in colors]",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_6.update_layout(plot_bgcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_6.update_layout(plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\", height = 600, hovermode = \"y unified\", \n    hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n    legend = dict(x = 1, y = 0.5),\n    title = {\"text\" : \"Elite Artists : The Top 10 Groups by Followers\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_6.update_yaxes(gridcolor = \"white\")\n#####################################################################################################################################################################################################################\ndf_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})\ncolors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))\ncolors_hex = [mcolors.to_hex(c) for c in colors]\nFig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_6.update_yaxes(gridcolor",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_6.update_yaxes(gridcolor = \"white\")\n#####################################################################################################################################################################################################################\ndf_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})\ncolors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))\ncolors_hex = [mcolors.to_hex(c) for c in colors]\nFig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],\n                                 values = df_artist_popularity_global_mean[\"Popularity Mean\"],\n                                 hole = 0.3,\n                                 hoverinfo = \"none\",\n                                 hovertemplate = 'Query Genre : %{label}<br>Popularity Mean : %{value}',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_popularity_global_mean",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_popularity_global_mean = df_tracks.groupby([\"Query_Genre\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\", \"Query_Genre\" : \"Query Genre\"})\ncolors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))\ncolors_hex = [mcolors.to_hex(c) for c in colors]\nFig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],\n                                 values = df_artist_popularity_global_mean[\"Popularity Mean\"],\n                                 hole = 0.3,\n                                 hoverinfo = \"none\",\n                                 hovertemplate = 'Query Genre : %{label}<br>Popularity Mean : %{value}',\n                                 textinfo = \"value\",\n                                 textfont = dict(size = 20),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "colors = plt.cm.viridis(np.linspace(0, 1, len(df_artist_popularity_global_mean[\"Query Genre\"])))\ncolors_hex = [mcolors.to_hex(c) for c in colors]\nFig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],\n                                 values = df_artist_popularity_global_mean[\"Popularity Mean\"],\n                                 hole = 0.3,\n                                 hoverinfo = \"none\",\n                                 hovertemplate = 'Query Genre : %{label}<br>Popularity Mean : %{value}',\n                                 textinfo = \"value\",\n                                 textfont = dict(size = 20),\n                                 marker = dict(colors = colors_hex))])",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "colors_hex",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "colors_hex = [mcolors.to_hex(c) for c in colors]\nFig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],\n                                 values = df_artist_popularity_global_mean[\"Popularity Mean\"],\n                                 hole = 0.3,\n                                 hoverinfo = \"none\",\n                                 hovertemplate = 'Query Genre : %{label}<br>Popularity Mean : %{value}',\n                                 textinfo = \"value\",\n                                 textfont = dict(size = 20),\n                                 marker = dict(colors = colors_hex))])\nFig_7.update_layout(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_7",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_7 = go.Figure(data = [go.Pie(labels = df_artist_popularity_global_mean[\"Query Genre\"],\n                                 values = df_artist_popularity_global_mean[\"Popularity Mean\"],\n                                 hole = 0.3,\n                                 hoverinfo = \"none\",\n                                 hovertemplate = 'Query Genre : %{label}<br>Popularity Mean : %{value}',\n                                 textinfo = \"value\",\n                                 textfont = dict(size = 20),\n                                 marker = dict(colors = colors_hex))])\nFig_7.update_layout(\n    font = dict(color = 'white', size = 18),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_7.update_traces(marker",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_7.update_traces(marker = {'line': {'color': 'white', 'width': 2}})\n#####################################################################################################################################################################################################################\ndf_season_artist = df_artist.groupby([\"Season\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_artist = df_season_artist.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_season_artist[\"Popularity\"] = df_season_artist[\"Popularity\"].astype(\"int64\")\ndf_season_artist[\"Artist_Name_Short\"] = df_season_artist[\"Artist_Name\"].apply(lambda x : x[:7] if isinstance(x, str) else x)\ndf_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_artist",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_artist = df_artist.groupby([\"Season\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_artist = df_season_artist.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_season_artist[\"Popularity\"] = df_season_artist[\"Popularity\"].astype(\"int64\")\ndf_season_artist[\"Artist_Name_Short\"] = df_season_artist[\"Artist_Name\"].apply(lambda x : x[:7] if isinstance(x, str) else x)\ndf_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_artist",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_artist = df_season_artist.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\ndf_season_artist[\"Popularity\"] = df_season_artist[\"Popularity\"].astype(\"int64\")\ndf_season_artist[\"Artist_Name_Short\"] = df_season_artist[\"Artist_Name\"].apply(lambda x : x[:7] if isinstance(x, str) else x)\ndf_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_artist[\"Popularity\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_artist[\"Popularity\"] = df_season_artist[\"Popularity\"].astype(\"int64\")\ndf_season_artist[\"Artist_Name_Short\"] = df_season_artist[\"Artist_Name\"].apply(lambda x : x[:7] if isinstance(x, str) else x)\ndf_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_artist[\"Artist_Name_Short\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_artist[\"Artist_Name_Short\"] = df_season_artist[\"Artist_Name\"].apply(lambda x : x[:7] if isinstance(x, str) else x)\ndf_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_tracks",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_tracks = df_tracks.groupby([\"Season\", \"Album_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_tracks",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_tracks = df_season_tracks.groupby(\"Season\").apply(lambda x: x.nlargest(5, 'Popularity')).reset_index(drop = True)\nnew_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "new_values",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "new_values = [1, 2, 4, 5, 7]\ndf_season_tracks.loc[[10, 11, 12, 13, 14], 'Popularity'] = new_values\ndf_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_tracks[\"Popularity\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_tracks[\"Popularity\"] = df_season_tracks[\"Popularity\"].astype(\"int64\")\ndf_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_season_tracks[\"Album_Name_Short\"]",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_season_tracks[\"Album_Name_Short\"] = df_season_tracks[\"Album_Name\"].apply(lambda x: x[:7] if isinstance(x, str) else x)\nunique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "unique_categories",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "unique_categories = [\"Spring\", \"Summer\", \"Autumn\", \"Winter\"]\ncategory_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)\nfor trace in fig_track.data:",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "category_orders",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "category_orders = {\"Season\" : unique_categories}\nfig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)\nfor trace in fig_track.data:\n    Fig_8.add_trace(trace, row = 1, col = 2)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "fig_artist",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "fig_artist = px.bar(df_season_artist, y = 'Artist_Name_Short', x = 'Popularity', color = 'Season', \n                    hover_data = {\"Artist_Name_Short\" : False, \"Artist_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nfig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)\nfor trace in fig_track.data:\n    Fig_8.add_trace(trace, row = 1, col = 2)\nFig_8.update_layout(height = 600,",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "fig_track",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "fig_track = px.bar(df_season_tracks, y = 'Album_Name_Short', x = 'Popularity', color = 'Season', \n                   hover_data = {\"Album_Name_Short\" : False, \"Album_Name\" : True}, category_orders = {\"Season\" : unique_categories})\nFig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)\nfor trace in fig_track.data:\n    Fig_8.add_trace(trace, row = 1, col = 2)\nFig_8.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"y unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_8",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_8 = make_subplots(rows = 1, cols = 2, subplot_titles = (\"ARTİST\", \"TRACK\"))\nfor trace in fig_artist.data:\n    Fig_8.add_trace(trace, row = 1, col = 1)\nfor trace in fig_track.data:\n    Fig_8.add_trace(trace, row = 1, col = 2)\nFig_8.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"y unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 in popularity for tracks and artists, according to seasons\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_8.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_8.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"y unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 in popularity for tracks and artists, according to seasons\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_artist_guery_genre_top5 = df_artist.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Followers\" : \"mean\"}).reset_index()\ndf_artist_guery_genre_top5 = df_artist_guery_genre_top5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Followers\")).reset_index(drop=True) \nFig_9 = px.bar(df_artist_guery_genre_top5, x = \"Artist_Name\", y = \"Followers\", color = \"Query_Genre\")\nFig_9.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_guery_genre_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_guery_genre_top5 = df_artist.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Followers\" : \"mean\"}).reset_index()\ndf_artist_guery_genre_top5 = df_artist_guery_genre_top5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Followers\")).reset_index(drop=True) \nFig_9 = px.bar(df_artist_guery_genre_top5, x = \"Artist_Name\", y = \"Followers\", color = \"Query_Genre\")\nFig_9.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists with the most followers, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_9_Copy = Fig_9\n#####################################################################################################################################################################################################################\ndf_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_artist_guery_genre_top5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_artist_guery_genre_top5 = df_artist_guery_genre_top5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Followers\")).reset_index(drop=True) \nFig_9 = px.bar(df_artist_guery_genre_top5, x = \"Artist_Name\", y = \"Followers\", color = \"Query_Genre\")\nFig_9.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists with the most followers, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_9_Copy = Fig_9\n#####################################################################################################################################################################################################################\ndf_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_9",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_9 = px.bar(df_artist_guery_genre_top5, x = \"Artist_Name\", y = \"Followers\", color = \"Query_Genre\")\nFig_9.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists with the most followers, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_9_Copy = Fig_9\n#####################################################################################################################################################################################################################\ndf_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)\nFig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_9.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_9.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists with the most followers, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_9_Copy = Fig_9\n#####################################################################################################################################################################################################################\ndf_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)\nFig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")\nFig_10.update_layout(height = 600,",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_9_Copy",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_9_Copy = Fig_9\n#####################################################################################################################################################################################################################\ndf_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)\nFig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")\nFig_10.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists in popularity, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_10_Copy = Fig_10",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_query_genre_top_5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_query_genre_top_5 = df_tracks.groupby([\"Query_Genre\", \"Artist_Name\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)\nFig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")\nFig_10.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists in popularity, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_10_Copy = Fig_10\n#####################################################################################################################################################################################################################\ndf_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_query_genre_top_5",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_query_genre_top_5 = df_tracks_query_genre_top_5.groupby(\"Query_Genre\").apply(lambda x : x.nlargest(5, \"Popularity\")).reset_index(drop = True)\nFig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")\nFig_10.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists in popularity, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_10_Copy = Fig_10\n#####################################################################################################################################################################################################################\ndf_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})\ndf_tracks_duration_count[\"Count_of_Song\"].fillna(0, inplace = True)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_10",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_10 = px.bar(df_tracks_query_genre_top_5, x = \"Artist_Name\", y = \"Popularity\", color = \"Query_Genre\")\nFig_10.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists in popularity, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_10_Copy = Fig_10\n#####################################################################################################################################################################################################################\ndf_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})\ndf_tracks_duration_count[\"Count_of_Song\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_10.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_10.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Top 5 artists in popularity, categorized by query genre\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\nFig_10_Copy = Fig_10\n#####################################################################################################################################################################################################################\ndf_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})\ndf_tracks_duration_count[\"Count_of_Song\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_count['Duration_Cat'].unique()",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_10_Copy",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_10_Copy = Fig_10\n#####################################################################################################################################################################################################################\ndf_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})\ndf_tracks_duration_count[\"Count_of_Song\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_count['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Total Number of Hit Songs by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'] == cat}, {'title' : f\" {cat} Total Number of Hit Songs by Query Genre and Song Duration\"}]))\nFig_11 = go.Figure()",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_duration_count",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_duration_count = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Song_Link\" : \"count\"}).reset_index().rename(columns = {\"Song_Link\" : \"Count_of_Song\"})\ndf_tracks_duration_count[\"Count_of_Song\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_count['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Total Number of Hit Songs by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'] == cat}, {'title' : f\" {cat} Total Number of Hit Songs by Query Genre and Song Duration\"}]))\nFig_11 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_11.add_trace(go.Bar(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "category_orders",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "category_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_count['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Total Number of Hit Songs by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'] == cat}, {'title' : f\" {cat} Total Number of Hit Songs by Query Genre and Song Duration\"}]))\nFig_11 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_11.add_trace(go.Bar(\n        x = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "unique_duration_cats",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "unique_duration_cats = df_tracks_duration_count['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Total Number of Hit Songs by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'] == cat}, {'title' : f\" {cat} Total Number of Hit Songs by Query Genre and Song Duration\"}]))\nFig_11 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_11.add_trace(go.Bar(\n        x = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],\n        text = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "buttons",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "buttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Total Number of Hit Songs by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_count['Duration_Cat'] == cat}, {'title' : f\" {cat} Total Number of Hit Songs by Query Genre and Song Duration\"}]))\nFig_11 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_11.add_trace(go.Bar(\n        x = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],\n        text = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],\n        textposition = 'outside',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_11",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_11 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_11.add_trace(go.Bar(\n        x = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],\n        text = df_tracks_duration_count[df_tracks_duration_count['Duration_Cat'] == cat][\"Count_of_Song\"],\n        textposition = 'outside',\n        hovertemplate = '<b>Query Genre</b>: %{x}'+\n                        '<br><b>Duration Category</b>: '+cat+\n                        '<br><b>Count of Song</b>: %{y}<br>',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_11.update_layout(updatemenus",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_11.update_layout(updatemenus = [go.layout.Updatemenu(active = 0, buttons = buttons)])\nFig_11.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Total Number of Hit Songs by Query Genre and Song Duration\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_duration_genre = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_duration_genre[\"Popularity\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_genre['Duration_Cat'].unique()",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_11.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_11.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Total Number of Hit Songs by Query Genre and Song Duration\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_duration_genre = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_duration_genre[\"Popularity\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_genre['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Average Popularity by Query Genre and Song Duration'}])]",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_duration_genre",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_duration_genre = df_tracks.groupby([\"Query_Genre\", \"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index()\ndf_tracks_duration_genre[\"Popularity\"].fillna(0, inplace = True)\ncategory_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_genre['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Average Popularity by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'] == cat}, {'title' : f\"{cat} Average Popularity by Query Genre and Song Duration\"}]))\nFig_12 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_12.add_trace(go.Bar(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "category_orders",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "category_orders = {\"Duration_Cat\" : [\"3 - 4\", \"2 - 3\", \"1 - 2\", \"0 - 1\"]}\nunique_duration_cats = df_tracks_duration_genre['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Average Popularity by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'] == cat}, {'title' : f\"{cat} Average Popularity by Query Genre and Song Duration\"}]))\nFig_12 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_12.add_trace(go.Bar(\n        x = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"],",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "unique_duration_cats",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "unique_duration_cats = df_tracks_duration_genre['Duration_Cat'].unique()\nbuttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Average Popularity by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'] == cat}, {'title' : f\"{cat} Average Popularity by Query Genre and Song Duration\"}]))\nFig_12 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_12.add_trace(go.Bar(\n        x = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"],\n        text = round(df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"], 2),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "buttons",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "buttons = [dict(label = 'All', method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'].isin(unique_duration_cats)}, {'title' : 'Average Popularity by Query Genre and Song Duration'}])]\nfor cat in unique_duration_cats:\n    buttons.append(dict(label = cat, method = 'update', args = [{'visible' : df_tracks_duration_genre['Duration_Cat'] == cat}, {'title' : f\"{cat} Average Popularity by Query Genre and Song Duration\"}]))\nFig_12 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_12.add_trace(go.Bar(\n        x = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"],\n        text = round(df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"], 2),\n        textposition = 'outside',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_12",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_12 = go.Figure()\nfor cat in unique_duration_cats:\n    Fig_12.add_trace(go.Bar(\n        x = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Query_Genre\"], \n        y = df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"],\n        text = round(df_tracks_duration_genre[df_tracks_duration_genre['Duration_Cat'] == cat][\"Popularity\"], 2),\n        textposition = 'outside',\n        hovertemplate = '<b>Query Genre</b>: %{x}'+\n                        '<br><b>Duration Category</b>: '+cat+\n                        '<br><b>Avg Popularity</b>: %{y}<br>',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_12.update_layout(updatemenus",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_12.update_layout(updatemenus = [go.layout.Updatemenu(active = 0, buttons = buttons)])\nFig_12.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Average Popularity by Query Genre and Song Duration\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_duration = df_tracks.groupby([\"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\"})\nFig_13 = go.Figure(data = [go.Pie(labels = df_tracks_duration['Duration_Cat'],\n                            values = df_tracks_duration['Popularity Mean'],\n                            hovertemplate = '<b>Duration Category</b>: %{label}'+",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_12.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_12.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Average Popularity by Query Genre and Song Duration\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\ndf_tracks_duration = df_tracks.groupby([\"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\"})\nFig_13 = go.Figure(data = [go.Pie(labels = df_tracks_duration['Duration_Cat'],\n                            values = df_tracks_duration['Popularity Mean'],\n                            hovertemplate = '<b>Duration Category</b>: %{label}'+\n                                             '<br><b>Average Popularity</b>: %{value}<br>',",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df_tracks_duration",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df_tracks_duration = df_tracks.groupby([\"Duration_Cat\"]).agg({\"Popularity\" : \"mean\"}).reset_index().rename(columns = {\"Popularity\" : \"Popularity Mean\"})\nFig_13 = go.Figure(data = [go.Pie(labels = df_tracks_duration['Duration_Cat'],\n                            values = df_tracks_duration['Popularity Mean'],\n                            hovertemplate = '<b>Duration Category</b>: %{label}'+\n                                             '<br><b>Average Popularity</b>: %{value}<br>',\n                            textinfo = 'value')])\nFig_13.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Average Popularity by Duration Category\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_13",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_13 = go.Figure(data = [go.Pie(labels = df_tracks_duration['Duration_Cat'],\n                            values = df_tracks_duration['Popularity Mean'],\n                            hovertemplate = '<b>Duration Category</b>: %{label}'+\n                                             '<br><b>Average Popularity</b>: %{value}<br>',\n                            textinfo = 'value')])\nFig_13.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Average Popularity by Duration Category\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_13.update_layout(height",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_13.update_layout(height = 600,\n                  plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\",\n                  hovermode = \"x unified\", hoverlabel = dict(bgcolor = \"white\",  font_size = 16, font_family = \"Rockwell\", font_color = \"black\"),\n                  title = {\"text\" : \"Average Popularity by Duration Category\", 'x' : 0.5, 'xanchor' : 'center', 'y' : 0.95, 'yanchor' : 'top', 'font' : { 'size' : 18, 'color' : 'white'}})\n#####################################################################################################################################################################################################################\nquery_genre = {\"k-pop\": 1000, \"j-pop\": 1000, \"japanese\": 1000, \"korean\": 1000, \"j-dance\": 1000, \"chinese\": 1000, \"j-idol\": 999}\ndata = {\n    \"country\": [\"China\", \"Japan\", \"South Korea\", \"North Korea\", \"Mongolia\", \"Taiwan\"],\n    \"value\": [query_genre.get(\"chinese\", 0),\n              query_genre.get(\"japanese\", 0) + query_genre.get(\"j-pop\", 0),",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "query_genre",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "query_genre = {\"k-pop\": 1000, \"j-pop\": 1000, \"japanese\": 1000, \"korean\": 1000, \"j-dance\": 1000, \"chinese\": 1000, \"j-idol\": 999}\ndata = {\n    \"country\": [\"China\", \"Japan\", \"South Korea\", \"North Korea\", \"Mongolia\", \"Taiwan\"],\n    \"value\": [query_genre.get(\"chinese\", 0),\n              query_genre.get(\"japanese\", 0) + query_genre.get(\"j-pop\", 0),\n              query_genre.get(\"korean\", 0) + query_genre.get(\"k-pop\", 0),\n              0, 0, 0]}\ncolorscale = \"RdYlBu\"\ndf = pd.DataFrame(data)\nbackground_world = go.Scattergeo(",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "data = {\n    \"country\": [\"China\", \"Japan\", \"South Korea\", \"North Korea\", \"Mongolia\", \"Taiwan\"],\n    \"value\": [query_genre.get(\"chinese\", 0),\n              query_genre.get(\"japanese\", 0) + query_genre.get(\"j-pop\", 0),\n              query_genre.get(\"korean\", 0) + query_genre.get(\"k-pop\", 0),\n              0, 0, 0]}\ncolorscale = \"RdYlBu\"\ndf = pd.DataFrame(data)\nbackground_world = go.Scattergeo(\n    lon = [180, -180], lat = [90, -90], mode = \"text\", text = [\"\"],",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "colorscale",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "colorscale = \"RdYlBu\"\ndf = pd.DataFrame(data)\nbackground_world = go.Scattergeo(\n    lon = [180, -180], lat = [90, -90], mode = \"text\", text = [\"\"],\n    showlegend = False, hoverinfo = \"none\",\n    marker = dict(size = 0, cmin = 0, cmax = 0,\n    colorscale = [[0, \"rgba(28, 107, 160, 0.6)\"], [1, \"rgba(28, 107, 160, 0.6)\"]], showscale = False,\n    colorbar = dict(lenmode = \"fraction\", len = 0.1, yanchor = \"top\", y = 1, xanchor = \"left\", x = 0.01, bgcolor = None),))\nmain_map = go.Choropleth(\n    locations = df[\"country\"], z = df[\"value\"], locationmode = \"country names\",",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "df = pd.DataFrame(data)\nbackground_world = go.Scattergeo(\n    lon = [180, -180], lat = [90, -90], mode = \"text\", text = [\"\"],\n    showlegend = False, hoverinfo = \"none\",\n    marker = dict(size = 0, cmin = 0, cmax = 0,\n    colorscale = [[0, \"rgba(28, 107, 160, 0.6)\"], [1, \"rgba(28, 107, 160, 0.6)\"]], showscale = False,\n    colorbar = dict(lenmode = \"fraction\", len = 0.1, yanchor = \"top\", y = 1, xanchor = \"left\", x = 0.01, bgcolor = None),))\nmain_map = go.Choropleth(\n    locations = df[\"country\"], z = df[\"value\"], locationmode = \"country names\",\n    colorscale = colorscale, colorbar_title = \"Total Song Count\", hoverinfo = \"location+z\", ",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "background_world",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "background_world = go.Scattergeo(\n    lon = [180, -180], lat = [90, -90], mode = \"text\", text = [\"\"],\n    showlegend = False, hoverinfo = \"none\",\n    marker = dict(size = 0, cmin = 0, cmax = 0,\n    colorscale = [[0, \"rgba(28, 107, 160, 0.6)\"], [1, \"rgba(28, 107, 160, 0.6)\"]], showscale = False,\n    colorbar = dict(lenmode = \"fraction\", len = 0.1, yanchor = \"top\", y = 1, xanchor = \"left\", x = 0.01, bgcolor = None),))\nmain_map = go.Choropleth(\n    locations = df[\"country\"], z = df[\"value\"], locationmode = \"country names\",\n    colorscale = colorscale, colorbar_title = \"Total Song Count\", hoverinfo = \"location+z\", \n    marker_line_color = \"darkgray\", marker_line_width = 1)",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "main_map",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "main_map = go.Choropleth(\n    locations = df[\"country\"], z = df[\"value\"], locationmode = \"country names\",\n    colorscale = colorscale, colorbar_title = \"Total Song Count\", hoverinfo = \"location+z\", \n    marker_line_color = \"darkgray\", marker_line_width = 1)\nFig_14 = go.Figure(data=[background_world, main_map])\nFig_14.update_layout(title = {\"text\" : \"Highlighted Countries of Interest\", \"y\" : 0.92, \"x\" : 0.5, \"xanchor\" : \"center\", \"yanchor\" : \"top\"},\n    geo = dict(scope = \"world\",  showland = True, landcolor = \"lightgray\", showocean = True, oceancolor = \"rgba(28, 107, 160, 0.6)\"),\n    autosize = False, height = 600, plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_14",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_14 = go.Figure(data=[background_world, main_map])\nFig_14.update_layout(title = {\"text\" : \"Highlighted Countries of Interest\", \"y\" : 0.92, \"x\" : 0.5, \"xanchor\" : \"center\", \"yanchor\" : \"top\"},\n    geo = dict(scope = \"world\",  showland = True, landcolor = \"lightgray\", showocean = True, oceancolor = \"rgba(28, 107, 160, 0.6)\"),\n    autosize = False, height = 600, plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Fig_14.update_layout(title",
+        "kind": 5,
+        "importPath": "Graphs",
+        "description": "Graphs",
+        "peekOfCode": "Fig_14.update_layout(title = {\"text\" : \"Highlighted Countries of Interest\", \"y\" : 0.92, \"x\" : 0.5, \"xanchor\" : \"center\", \"yanchor\" : \"top\"},\n    geo = dict(scope = \"world\",  showland = True, landcolor = \"lightgray\", showocean = True, oceancolor = \"rgba(28, 107, 160, 0.6)\"),\n    autosize = False, height = 600, plot_bgcolor = \"rgb(84,52,107)\", paper_bgcolor = \"rgb(84,52,107)\")\n#####################################################################################################################################################################################################################",
+        "detail": "Graphs",
+        "documentation": {}
+    },
+    {
+        "label": "list",
+        "kind": 5,
+        "importPath": "Python_Test",
+        "description": "Python_Test",
+        "peekOfCode": "list = [\"a\", \"b\", \"c\", \"d\", \"e\", \"f\", \"g\", \"h\"]\nfor i in enumerate(list, start = 1):\n    print(i)\nimport seaborn as sns\nimport matplotlib.pyplot as plt\na = [\"a\", \"b\", \"c\", \"d\", \"e\"]\nb = [1, 4, 3, 5, 2]\nplt.figure(figsize=(10, 6)) \nsns.barplot(x=a, y=b)\nplt.xlabel('X Ekseni')",
+        "detail": "Python_Test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Python_Test",
+        "description": "Python_Test",
+        "peekOfCode": "a = [\"a\", \"b\", \"c\", \"d\", \"e\"]\nb = [1, 4, 3, 5, 2]\nplt.figure(figsize=(10, 6)) \nsns.barplot(x=a, y=b)\nplt.xlabel('X Ekseni')\nplt.ylabel('Y Ekseni')\nplt.title('Çubuk Grafik')\nmy_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor i, value in enumerate(my_list):\n    if i > 0:",
+        "detail": "Python_Test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "Python_Test",
+        "description": "Python_Test",
+        "peekOfCode": "b = [1, 4, 3, 5, 2]\nplt.figure(figsize=(10, 6)) \nsns.barplot(x=a, y=b)\nplt.xlabel('X Ekseni')\nplt.ylabel('Y Ekseni')\nplt.title('Çubuk Grafik')\nmy_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor i, value in enumerate(my_list):\n    if i > 0:\n        i = i + my_list[i - 1]",
+        "detail": "Python_Test",
+        "documentation": {}
+    },
+    {
+        "label": "my_list",
+        "kind": 5,
+        "importPath": "Python_Test",
+        "description": "Python_Test",
+        "peekOfCode": "my_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor i, value in enumerate(my_list):\n    if i > 0:\n        i = i + my_list[i - 1]\n    print(i)",
+        "detail": "Python_Test",
+        "documentation": {}
+    }
+]
